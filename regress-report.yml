@@ -24,7 +24,7 @@ test-cases:
       Добавление товара в корзину
     status: pass
 
-    - summary: |
+  - summary: |
       Добавление нескольких позиций товаров в корзину
     status: pass
 
@@ -32,7 +32,7 @@ test-cases:
       Проверка удаления позиции товара в корзине
     status: pass
 
-    - summary: |
+  - summary: |
       Проверка очистки корзины
     status: fail
 
@@ -40,7 +40,7 @@ test-cases:
       Проверка оформления заказа на сайте
     status: fail
 
-    - summary: |
+  - summary: |
       Проверка возможности продолжить покупки
     status: pass
 
@@ -48,7 +48,7 @@ test-cases:
       Проверка возврата к каталогу магазина
     status: pass
 
-    - summary: |
+  - summary: |
       Проверка фильтрации по цене с отрицательным значением
     status: pass
 
@@ -56,7 +56,7 @@ test-cases:
       Просмотр карточки товара
     status: pass
 
-    - summary: |
+  - summary: |
       Фильтрация товара по категориям
     status: pass
 
