@@ -35,7 +35,7 @@
   test-data: |
     Бренд = Hemani Tea
   steps:
-    - Выираем бренд
+    - Выбираем бренд
   expected-result: |
     Сайт должен отобразить все товары бренда
 
@@ -48,7 +48,7 @@
   test-data: |
     Бренды = Hemani Tea, Apple, Golden
   steps:
-    - Выираем бренды
+    - Выбираем бренды
   expected-result: |
     Сайт должен отобразить все товары бренда
 
